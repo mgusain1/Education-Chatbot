@@ -26,4 +26,4 @@ Database: FAISS (vector store) + CSV metadata
 
 Data Source: College Scorecard (merged with custom university dataset)
 
-Frontend (optional): Streamlit (for testing chatbot UI)
+Frontend: Streamlit (for testing chatbot UI)
